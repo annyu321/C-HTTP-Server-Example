@@ -12,13 +12,10 @@
       Use Lambda function as callbacks
 7. Portable across the Windows and Ubuntu
 
-#Dependencies
+## Dependencies
 - Boost 1.77.0
 - Visual Studio 2019
 - HTTP 2.0
-
-## Execution
-- go run main.go aws.go handler.go
 
 ## Test
 Use AWS CLI 
