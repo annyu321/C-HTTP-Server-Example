@@ -1,4 +1,4 @@
-# C++ HTTP Server Example
+# C++ HTTP Web Server Example
 
 ## Functionalities:
 1. Expose GET service through HTTP
