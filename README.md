@@ -2,14 +2,13 @@
 
 ## Functionalities:
 1. Expose GET service through HTTP
-      Video, audio, image, text
 2. Process connections, read requests and construct responses asynchronously
 3. Support concurrent execution
 4. Monitor the count of requests and session time
 5. Exception Capture and error handling
 6. Modern C++ feature 
-      Use smart pointer to ensure that free of memory leaks and are exception-safe
-      Use Lambda function as callbacks
+- Use smart pointer to ensure that free of memory leaks and are exception-safe
+- Use Lambda function as callbacks
 7. Portable across the Windows and Ubuntu
 
 ## Dependencies
