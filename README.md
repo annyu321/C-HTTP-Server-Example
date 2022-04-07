@@ -1,6 +1,6 @@
-#C++ HTTP Server Example
+# C++ HTTP Server Example
 
-##Functionalities:
+## Functionalities:
 1. Expose GET service through HTTP
       Video, audio, image, text
 2. Process connections, read requests and construct responses asynchronously
@@ -22,7 +22,7 @@
 
 ## Test
 Use AWS CLI 
-- http://localhost:8000/video
-- http://localhost:8000/audio
-- http://localhost:8000/image
-- http://localhost:8000/text
+- http://localhost:8080/video
+- http://localhost:8080/audio
+- http://localhost:8080/image
+- http://localhost:8080/text
