@@ -17,7 +17,6 @@
 - HTTP 2.0
 
 ## Test
-Use AWS CLI 
 - http://localhost:8080/video
 - http://localhost:8080/audio
 - http://localhost:8080/image
